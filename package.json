@@ -20,6 +20,6 @@
     },
     "homepage": "https://github.com/Harry-Hopkinson/sample-data#readme",
     "devDependencies": {
-        "@types/node": "^17.0.18"
+        "@types/node": "^20.0.0"
     }
 }
